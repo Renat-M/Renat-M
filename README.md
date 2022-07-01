@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there!%20I%20am%20using%20WhatsApp.%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-Ecole 42 association stats:
+### Ecole 42 association stats:
 
 [![meourea's 42 stats](https://badge42.vercel.app/api/v2/cl4sbackd012609mj70gqdbbo/stats?cursusId=21&coalitionId=89)](https://github.com/JaeSeoKim/badge42)
 
-Telegram: @Renatick
+#### Telegram: @Renatick
 <!--
 **Renat-M/Renat-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

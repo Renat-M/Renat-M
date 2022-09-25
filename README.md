@@ -13,6 +13,16 @@
   </div>
 </div>
 
+|  |  Projects scores:|  |
+| :---         | :---:    | ---:          |
+| Minishell | Piscine Swift iOS | Cub3d |
+|![meourea's 42 minishell Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2382707)        | ![meourea's 42 Piscine Swift iOS Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2711079)   | ![meourea's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2584430)       |
+| Get_next_line       | Minitalk   | Philosophers        |
+| ![meourea's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2174770)    | ![meourea's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2257263)   | ![meourea's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2382706)      |
+| Push_swap       | So_long   | Born2beroot        |
+| ![meourea's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2370080) | ![meourea's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2264342) | ![meourea's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/project/2219101) |/>
+
+</p>
 <!--
 **Renat-M/Renat-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

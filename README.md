@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8effxd900160gmkjlf0l5qu/stats?cursusId=21&coalitionId=45" alt="meourea's 42 stats" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-M&layout=compact&theme=github_dark&card_width=446"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-M&layout=compact&theme=github_dark&card_width=375" /></a>
+<!--     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-M&layout=compact&theme=github_dark&card_width=446"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renat-M&layout=compact&theme=github_dark&card_width=375" /></a> -->
 </p>
 <p align="center"> 
 
